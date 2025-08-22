@@ -12,6 +12,10 @@
 /[Uu]ser[Ss]ettings/
 *.log
 
+/Assets/Imported Assets/
+/Assets/Prefabs/Sample Scene Prefabs/
+/Assets/Materials/TerrainSampleAssets/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
