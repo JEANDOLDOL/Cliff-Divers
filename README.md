@@ -1,4 +1,4 @@
-# BaseJumperz
+# Cliff-Divers
 
 Extreme wingsuit base-jumping arcade–sim made with Unity.
 
